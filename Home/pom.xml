@@ -40,6 +40,22 @@
 			<version>1.0.13</version>
 		</dependency>
 		
+		<!-- database -->
+		
+		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<version>1.4.179</version>
+		</dependency>
+		
+		<!-- connection pooling -->
+		
+		<dependency>
+			<groupId>commons-dbcp</groupId>
+			<artifactId>commons-dbcp</artifactId>
+			<version>1.2.2</version>
+		</dependency>
+		
 	</dependencies>
   
   
